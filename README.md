@@ -76,13 +76,15 @@ In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated tha
 
 ## 2. Team & Roles
 
-Camille Elgueta - Project Manager
+Cristóbal Cariqueo - Project Manager
 
-Zihao Xiao - Analyst
+Valentina Cifuentes - Analyst
 
-Gerson Urrea - Designer
+Jun Saez - Analyst 2
 
-Carlos Pradenas - Presenter
+Viviana Castro - Designer
+
+Sebastian Bustos - Presenter
 
 ---
 
