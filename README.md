@@ -116,13 +116,13 @@ Sebastian Bustos - Presenter
 ---
 
 👥🔹 **Catalina González**  
-*"I want to compare degree programs that balance my passions with real-world employability."*
+*"I feel like I'm always connected, but never actually focused on what matters."*
 
 👥🔹 **Sofía Araya**  
-*"I love art, but my family says it’s not a ‘serious degree program’."*
+*"The line between my work life and my home life has completely disappeared."*
 
 👥🔹 **Jorge Muñoz**  
-*"I need a degree program that lets me support my family quickly."*
+*"Technology is wonderful for staying in touch, but I don't want it to consume my day."*
 
 ---
 
