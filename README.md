@@ -45,7 +45,7 @@ Today, a significant portion of the population is struggling with addiction to s
 
 - Mindful Monkey doesn't just send notifications or reminders; it physically blocks access to applications. When an app is blocked, the user cannot open it, removing the temptation and reliance on willpower.
 
-#### ** Scheduled Block Periods**
+#### **Scheduled Block Periods**
 
 - The app allows users to schedule specific block periods in advance. For example, a user can set a schedule to block all social media apps from 9 AM to 5 PM on weekdays to stay focused during work hours.
 
