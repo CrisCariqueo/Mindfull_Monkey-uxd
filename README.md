@@ -98,13 +98,13 @@ Sebastian Bustos - Presenter
 
 ---
 
-👥🔹 **Catalina González**  
+👥🔹 **Alex Chen**  
 *"I feel like I'm always connected, but never actually focused on what matters."*
 
-👥🔹 **Sofía Araya**  
+👥🔹 **Maria Garcia**  
 *"The line between my work life and my home life has completely disappeared."*
 
-👥🔹 **Jorge Muñoz**  
+👥🔹 **David Miller**  
 *"Technology is wonderful for staying in touch, but I don't want it to consume my day."*
 
 ---
