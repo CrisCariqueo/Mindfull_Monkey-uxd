@@ -30,7 +30,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 ### 1.1. **The Problem**
 
 > I just opened TikTok for a minute, and now three hours are gone.
-> I can't focus on my work without checking Instagram.  
+> I can't focus on my work without checking Instagram.
 > I can't sleep well and I'm always tired.
 
 Today, a significant portion of the population is struggling with addiction to social media and other mobile applications. This addiction leads to a continuous cycle of distraction, decreased productivity, and negative impacts on mental well-being. People often feel a lack of control over their digital habits, losing valuable time and energy they could dedicate to more meaningful pursuits.
@@ -63,7 +63,7 @@ Cristóbal Cariqueo - Project Manager
 
 Valentina Cifuentes - Analyst
 
-Jun Saez - Analyst 2
+Jun Saez - Analyst 
 
 Viviana Castro - Designer
 
