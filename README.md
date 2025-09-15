@@ -29,50 +29,33 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 
 ### 1.1. **The Problem**
 
-> What if I’m just wasting my time?  
-> What if I disappoint my family with my decision?  
-> Will I earn enough to make a living?
+> I just opened TikTok for a minute, and now three hours are gone.
+> I can't focus on my work without checking Instagram.  
+> I can't sleep well and I'm always tired.
 
-High school students in Chile face significant challenges when choosing their academic and professional paths. Existing vocational guidance platforms offer fragmented information across multiple websites, with overwhelming interfaces and technical language that create unnecessary barriers.
-
-In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for academic program guidance. Platforms like *MiFuturo* or the Ministry of Education’s websites were not mentioned, revealing a lack of access to key information—and a strategic opportunity.
-
-📊 You can view the full survey responses [here](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing).
+Today, a significant portion of the population is struggling with addiction to social media and other mobile applications. This addiction leads to a continuous cycle of distraction, decreased productivity, and negative impacts on mental well-being. People often feel a lack of control over their digital habits, losing valuable time and energy they could dedicate to more meaningful pursuits.
 
 ---
 
 ### 1.2. **Our Solution**
 
-**Vocación360** addresses a complex issue across three dimensions: social, emotional, and technical—facing challenges due to the lack of reliable and accessible platforms.
+**Mindful Monkey** is an "aggressively non-invasive" digital wellness app designed to help users regain control of their digital habits. It provides a simple but powerful solution to the problem of screen addiction by granting users tools that proactively prevent the use of apps they have identified as harmful.
 
-#### 🟣 **Striking Aesthetic with a Strong Visual Identity**
+#### **Proactive Blocking**
 
-- Color palette: **purples, oranges, and yellows**
-- A modern, immersive design that conveys **depth, energy, and modernity**
+- Mindful Monkey doesn't just send notifications or reminders; it physically blocks access to applications. When an app is blocked, the user cannot open it, removing the temptation and reliance on willpower.
 
-#### 🧭 **Adapted Vocational Guidance Test**
+#### ** Scheduled Block Periods**
 
-- **Two distinct paths:**
-    1. For students who feel **completely lost**
-    2. For those deciding between **two options**
+- The app allows users to schedule specific block periods in advance. For example, a user can set a schedule to block all social media apps from 9 AM to 5 PM on weekdays to stay focused during work hours.
 
-- Realistic recommendations:
-    + *We won’t suggest Civil Engineering if you hate math!*
+#### **Customizable App Selection**
 
-#### 🎲 **Gamified Degree Exploration**
-
-- **Interactive die** that presents random degree programs
-- *Discover what you didn’t know you liked!*
+- Users have complete control over which apps are blocked. Whether it's social media, games, or streaming platforms, the system only blocks the applications the user identifies as a source of distraction.
 > [!NOTE]  
-> It’s not about choosing at random, but broadening your perspective
+> Mindful Monkey empowers users by giving them the tools to set their own digital boundaries, helping them live more intentionally.
 
-#### 🔍 **Degree Explorer and Comparator**
-
-- Filters by: **location, tuition cost, or average salary**
-- Visual cards with the most relevant information
-
-
----
+--- 
 
 ## 2. Team & Roles
 
