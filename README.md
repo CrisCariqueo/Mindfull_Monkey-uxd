@@ -1,5 +1,5 @@
 # Mindfull Monkey
-User Experience Design for Vocación360: A Vocational Guidance Platform for High School Students in Chile
+User Experience Design for Mindful Monkey: A productivy focused app for daily use
 
 ## Index
 
@@ -153,14 +153,18 @@ These stages reflect the complete journey — from first contact to long-term pe
 #### 4.1.1. Decision Stage Interfaces
 
 **Customer Activities**
-
-
+- Block apps.
+- Schedule blocks within apps.
+- Have a timer so you can use an app for a limited time.
+- Read detailed reports of app use.
 
 **Customer Goals**
-
+- The user uses the app to be more productive.
+- The user uses the app to moderate the use of distracting apps.
+- The user has social media addiction issues.
 
 **Touchpoints**
-
+The user will be rewarded with increased productivity and less screen time wich together can lead to a healthier relationship with technology. They will be amused by all the time and mental health improvement making our app their best ally.
 
 
 ---
@@ -169,7 +173,7 @@ These stages reflect the complete journey — from first contact to long-term pe
 
 ### 5.1. Navigation Flow
 
-The Vocación360 site map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
+Mindfull Monkey app map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
 
 - **Home page**
 - **Routines**
