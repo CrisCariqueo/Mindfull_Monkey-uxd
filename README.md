@@ -164,6 +164,7 @@ These stages reflect the complete journey — from first contact to long-term pe
 - The user has social media addiction issues.
 
 **Touchpoints**
+
 The user will be rewarded with increased productivity and less screen time wich together can lead to a healthier relationship with technology. They will be amused by all the time and mental health improvement making our app their best ally.
 
 
