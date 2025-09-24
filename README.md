@@ -88,7 +88,7 @@ Sebastian Bustos - Presenter
 - **Emotional:** Insecurity, fear of failure, or disappointing the family.
 - **Technical:** Lack of attractive and integrated guidance platforms.
 
-![Value Proposition Canvas](./assets/value-prop-canvas.png)
+![Value Proposition Canvas](./assets/CanvaDeValor.png)
 
 ***
 
@@ -126,12 +126,11 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 
 #### Types of platforms analyzed:
 
-- 🎓 **Direct competitor**: The platform *MiFuturo*, which provides educational program information.
-- ⚖️ **Visual comparison tools**: Services like *QuePlan* or *ComparaOnline*, valued for their clarity and organization.
-- 🖼️ **Aesthetic references**: Apps like *Airbnb*, known for their modern and minimalistic user experience.
+- 🌳 **Direct competitor**: The platform *Forest*, which provides similar functionalities.
+- 📱 **Cellphone default focus app**: Services like *QuePlan* or *ComparaOnline*, valued for their clarity and organization.
 
 
-![Benchmarking](./assets/benchmarking.png)
+![Benchmarking](./assets/benchmark.png)
 
 ---
 
@@ -139,7 +138,7 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 
 ### 4.1. Customer Journey Map
 
-We identified four key stages in the user's interaction with Vocación360:
+We identified four key stages in the user's interaction with Mindfull Monkey:
 
 - 🔍 Awareness
 - 🤔 Consideration
@@ -149,27 +148,20 @@ We identified four key stages in the user's interaction with Vocación360:
 These stages reflect the complete journey — from first contact to long-term perception and potential recommendation.
 
 
-![Customer Journey Map](./assets/customer-journey-map.png)
+![Customer Journey Map](./assets/customerJourney.png)
 
 #### 4.1.1. Decision Stage Interfaces
 
 **Customer Activities**
 
-The user explores the key features of Vocación360. They can take a vocational test, explore and compare degree programs, view detailed information about each one, and receive personalized results. A key interface is the degree program search engine, which includes a bar that allows searching by university degree name, university, location, and area of interest. The results are displayed in clear information cards, with tags and buttons that allow users to compare or view more details.
 
-![Explore degree programs](./assets/hd-explore-degree-programs.png)
 
 **Customer Goals**
 
-The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers tests for students who feel completely lost, as well as for those who are deciding between two or more options. At the end of the test, a personalized list is provided, showing the top degree programs that best match the student’s profile.
-
-![Test Result](./assets/hd-test-result.png)
 
 **Touchpoints**
 
-The website interface is the primary point of contact with high school students. The home screen plays a key role, featuring a background in shades of purple and navy blue, designed to feel modern and appealing to students. One of its key elements is a question cloud, which aims to guide users toward action by empathizing with their main concerns.
 
-![Home](./assets/hd-home-section.png)
 
 ---
 
@@ -179,14 +171,15 @@ The website interface is the primary point of contact with high school students.
 
 The Vocación360 site map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
 
-- **Branched vocational guidance test**
-- **Gamified random exploration of degree programs**
-- **Degree program explorer with search functionality**
-- **Visual degree program comparator**
+- **Home page**
+- **Routines**
+- **App block**
+- **Monitoring**
+- **Stopwatch**
 
-> To maximize ease of access, the platform does **not require login or registration**, allowing students to explore all features freely without creating an account.
+> To maximize ease of access, the platform does **not require login or registration**, allowing people to explore all features freely without creating an account.
 
-![Sitemap](./assets/sitemap.png)
+![Sitemap](./assets/navigation.png)
 
 ---
 
