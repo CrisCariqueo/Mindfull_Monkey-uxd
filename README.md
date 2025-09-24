@@ -94,7 +94,7 @@ Sebastian Bustos - Presenter
 
 ### 3.2. **UX Personas**
 
-*Defined through interviews and surveys with high school students, these personas reflect the diverse realities and needs behind Vocación360.*
+*Defined through interviews and surveys with high school students, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
 
 ---
 
