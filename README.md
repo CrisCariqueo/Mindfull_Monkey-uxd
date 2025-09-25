@@ -161,7 +161,7 @@ These stages reflect the complete journey — from first contact to long-term pe
 **Customer Goals**
 - The user uses the app to be more productive.
 - The user uses the app to moderate the use of distracting apps.
-- The user has social media addiction issues.
+- The user wants to overcome his social media addiction issues.
 
 **Touchpoints**
 
