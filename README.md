@@ -17,7 +17,7 @@ User Experience Design for Mindful Monkey: A productivy focused app for daily us
 - [5. Structure](#5-structure)
     - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
-    - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
+    - [6.1. Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
 - [7. Surface](#z7-surface)
     - [7.1. Interface Evolution](#71-ui-evolution)
     - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
@@ -203,10 +203,10 @@ In the early iterations, the interfaces were organized into three main categorie
 > [!NOTE]  
 > CHAMBEAR EN ESTO
 
-📁 **[Wireframes Workspace – Vocación360 (Figma)](https://www.figma.com/design/xzcIdIPWxBuT59i8s7O3t0/Wireframes-Vocación360?t=7C1t74Ojj2hCTtnC-1)**  
+📁 **[Wireframes Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=91-6130&p=f&t=XJ1mGpevdQTeSuxt-0)**  
 Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
 
-📄 **[Low-Fi Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)**  
+📄 **[Low-Fi Wireframes – Mindful Monkey (PDF)](docs/wireframe-Mindful_Monkey.pdf)**  
 PDF version of the entire initial wireframe set, covering all main interface screens from the early design phase.
 
 **As the design evolved, the student benefits section was removed.** The focus shifted toward vocational tests, detailed degree information, random exploration features, and degree program comparison tools. *(This evolution is detailed in the next section).*
