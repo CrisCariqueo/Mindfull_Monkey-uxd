@@ -29,8 +29,8 @@ User Experience Design for Mindful Monkey: A productivy focused app for daily us
 
 ### 1.1. **The Problem**
 
-> I just opened TikTok for a minute, and now three hours are gone.
-> I can't focus on my work without checking Instagram.
+> I just opened TikTok for a minute, and now three hours are gone.\
+> I can't focus on my work without checking Instagram.\
 > I can't sleep well and I'm always tired.
 
 Today, a significant portion of the population is struggling with addiction to social media and other mobile applications. This addiction leads to a continuous cycle of distraction, decreased productivity, and negative impacts on mental well-being. People often feel a lack of control over their digital habits, losing valuable time and energy they could dedicate to more meaningful pursuits.
@@ -79,14 +79,14 @@ Sebastian Bustos - Presenter
 
 **Dual approach:**
 
-1. **Users with clear options:** Exploration and comparison tools with up-to-date information.
-2. **Lost or undecided users:** Vocational guidance test to narrow down options, plus a random degree explorer.
+1. **Regulate chronic usage:** Provides tools to set limits on screen usage, alongside usage analytics to track progress over time.
+2. **On-the-go focus:** Allows users to activate restrictions at will to enhance focus during critical situations.
 
 **Identified gaps:**
 
-- **Social:** External pressure on decision-making.
-- **Emotional:** Insecurity, fear of failure, or disappointing the family.
-- **Technical:** Lack of attractive and integrated guidance platforms.
+- **Social:** "Fear of Missing Out" (FoMO) and anxiety driven by constant notifications and social comparison.
+- **Emotional:** Increased digital fatigue, poor sleep quality/habits, inability to focus or engage in challenging tasks, and a feeling of being "addicted" or out of control. This is exacerbated by a depletion of willpower over time due to professional (work/studies) or psychological (end-stage screen addiction) factors.
+- **Technical:** Existing solutions are easily ignored or disabled by users, often causing more harm than good.
 
 ![Value Proposition Canvas](./assets/CanvaDeValor.png)
 
@@ -94,7 +94,7 @@ Sebastian Bustos - Presenter
 
 ### 3.2. **UX Personas**
 
-*Defined through behavioral observation of people suffering either consciously or unconsciously from screen addiction, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
+*Defined through behavioral observation of people suffering either consciously or unconsciously from screen addiction, these personas reflect the diverse realities and needs inspiring Mindful Monkey.*
 
 ---
 
