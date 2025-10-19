@@ -1,4 +1,4 @@
-# Mindfull Monkey
+# Mindful Monkey
 User Experience Design for Mindful Monkey: A productivy focused app for daily use
 
 ## Index
@@ -94,7 +94,7 @@ Sebastian Bustos - Presenter
 
 ### 3.2. **UX Personas**
 
-*Defined through behavioral observation of people suffering consciously or unconsciously suffering from screen addiction, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
+*Defined through behavioral observation of people suffering either consciously or unconsciously from screen addiction, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
 
 ---
 
@@ -136,7 +136,7 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 
 ### 4.1. Customer Journey Map
 
-We identified four key stages in the user's interaction with Mindfull Monkey:
+We identified four key stages in the user's interaction with Mindful Monkey:
 
 - 🔍 Awareness
 - 🤔 Consideration
