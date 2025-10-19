@@ -75,12 +75,12 @@ Sebastian Bustos - Presenter
 
 ### 3.1. Value Proposition Canvas
 
-*How we aligned student needs with our solution*
+*How we aligned user needs with our solution*
 
 **Dual approach:**
 
-1. **Students with clear options:** Exploration and comparison tools with up-to-date information.
-2. **Lost or undecided students:** Vocational guidance test to narrow down options, plus a random degree explorer.
+1. **Users with clear options:** Exploration and comparison tools with up-to-date information.
+2. **Lost or undecided users:** Vocational guidance test to narrow down options, plus a random degree explorer.
 
 **Identified gaps:**
 
@@ -94,7 +94,7 @@ Sebastian Bustos - Presenter
 
 ### 3.2. **UX Personas**
 
-*Defined through interviews and surveys with high school students, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
+*Defined through behavioral observation of people suffering consciously or unconsciously suffering from screen addiction, these personas reflect the diverse realities and needs inspiring Mindfull Monkey.*
 
 ---
 
@@ -109,8 +109,6 @@ Sebastian Bustos - Presenter
 
 ---
 
-> *These personas guided key design decisions, such as removing technical jargon, adding a degree comparator, and prioritizing access without registration.*
-
 ![UX Persona 1](./assets/ux-persona-1.png)
 
 ![UX Persona 2](./assets/ux-persona-2.png)
@@ -120,7 +118,7 @@ Sebastian Bustos - Presenter
 
 ### 3.3. Benchmarking
 
-To develop an application that truly meets the needs and expectations of high school students seeking vocational guidance, it was essential to analyze existing platforms — including both direct competitors and indirect references known for good design and usability.
+To develop an application that truly meets the needs and expectations of our users, it was essential to analyze existing platforms — including both direct competitors and indirect references known for good design and usability.
 
 The goal was to identify the strengths and weaknesses of current solutions, both functionally and visually, in order to incorporate best practices and avoid common pitfalls.
 
