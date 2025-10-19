@@ -201,6 +201,7 @@ Complete set of initial low-fidelity wireframes available in the shared Figma wo
 PDF version of the entire initial wireframe set, covering all main interface screens from the early design phase.
 
 **As the design evolved, new UI elements were included.** The focus shifted towards an increased detachment from the reference material and enhancing ease of use.
+
 ---
 
 ## 7. Surface
