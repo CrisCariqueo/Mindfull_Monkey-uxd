@@ -192,7 +192,7 @@ Mindful Monkey app map outlines a user-centered and streamlined structure design
 
 The wireframes developed serve as an initial approximation of the structure and visual layout of the interfaces tied to the system's core functionalities. Navigation between screens is primarily handled through a persistent top navigation bar, present across all interface screens.
 
-In the early iterations, the interfaces closely ressembled existing solutions with reduced cognitive complexity.
+In the early iterations, the interfaces closely ressembled existing solutions while reducing cognitive complexity.
 
 📁 **[Wireframes Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=91-6130&p=f&t=XJ1mGpevdQTeSuxt-0)**  
 Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
