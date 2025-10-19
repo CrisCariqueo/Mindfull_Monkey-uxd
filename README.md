@@ -192,16 +192,7 @@ Mindful Monkey app map outlines a user-centered and streamlined structure design
 
 The wireframes developed serve as an initial approximation of the structure and visual layout of the interfaces tied to the system's core functionalities. Navigation between screens is primarily handled through a persistent top navigation bar, present across all interface screens.
 
-In the early iterations, the interfaces were organized into three main categories:
-
-+ Interfaces related to degree programs.
-
-+ Interfaces related to vocational tests.
-
-+ Interfaces related to student benefit.
-
-> [!NOTE]  
-> CHAMBEAR EN ESTO
+In the early iterations, the interfaces closely ressembled existing solutions with reduced cognitive complexity.
 
 📁 **[Wireframes Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=91-6130&p=f&t=XJ1mGpevdQTeSuxt-0)**  
 Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
@@ -209,8 +200,7 @@ Complete set of initial low-fidelity wireframes available in the shared Figma wo
 📄 **[Low-Fi Wireframes – Mindful Monkey (PDF)](docs/wireframe-Mindful_Monkey.pdf)**  
 PDF version of the entire initial wireframe set, covering all main interface screens from the early design phase.
 
-**As the design evolved, the student benefits section was removed.** The focus shifted toward vocational tests, detailed degree information, random exploration features, and degree program comparison tools. *(This evolution is detailed in the next section).*
-
+**As the design evolved, new UI elements were included.** The focus shifted towards an increased detachment from the reference material and enhancing ease of use.
 ---
 
 ## 7. Surface
