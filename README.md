@@ -125,7 +125,7 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 #### Types of platforms analyzed:
 
 - 🌳 **Direct competitor**: The platform *Forest*, which provides similar functionalities.
-- 📱 **Cellphone default focus app**: Services like *QuePlan* or *ComparaOnline*, valued for their clarity and organization.
+- 📱 **Cellphone default focus app**: "Digital Wellbeing" applications integrated on devices by manufacturers or service providers. 
 
 
 ![Benchmarking](./assets/benchmark.png)
@@ -172,7 +172,7 @@ The user will be rewarded with increased productivity and less screen time wich 
 
 ### 5.1. Navigation Flow
 
-Mindfull Monkey app map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
+Mindful Monkey app map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
 
 - **Home page**
 - **Routines**
@@ -199,6 +199,9 @@ In the early iterations, the interfaces were organized into three main categorie
 + Interfaces related to vocational tests.
 
 + Interfaces related to student benefit.
+
+> [!NOTE]  
+> CHAMBEAR EN ESTO
 
 📁 **[Wireframes Workspace – Vocación360 (Figma)](https://www.figma.com/design/xzcIdIPWxBuT59i8s7O3t0/Wireframes-Vocación360?t=7C1t74Ojj2hCTtnC-1)**  
 Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
