@@ -239,35 +239,3 @@ It's also been added into the interface the functionality of directly restrictin
 ### 7.2. High Definition Interfaces
 
 📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**
-
----
-
-## 8. Annex
-
-This section provides direct access to all detailed PDF documents organized by project phase and section. Each document contains comprehensive information and visual materials supporting the design process.
-
-### 3. Strategy Documents
-- 📄 **[Value Proposition Canvas - Vocación360](docs/value-prop-canvas-vocacion360.pdf)**  
-  Detailed analysis of user pains, gains, and our value proposition alignment
-- 📄 **[UX Personas - Vocación360](docs/ux-personas-vocacion360.pdf)**  
-  Complete user personas with detailed profiles, needs, and behaviors
-- 📄 **[Benchmarking Analysis - Vocación360](docs/benchmarking-vocacion360.pdf)**  
-  Comprehensive competitive analysis and market positioning
-
-### 4. Scope Documents
-- 📄 **[Customer Journey Map - Vocación360](docs/customer-journey-map-vocacion360.pdf)**  
-  Detailed user journey mapping across all touchpoints and interactions
-
-### 5. Structure Documents
-- 📄 **[Sitemap - Vocación360](docs/sitemap-vocacion360.pdf)**  
-  Complete information architecture and navigation structure
-
-### 6. Skeleton Documents
-- 📄 **[Low-Fi Wireframes - Vocación360](docs/wireframes-vocacion360.pdf)**  
-  Complete set of low-fidelity wireframes for all main interfaces
-
-### 7. Surface Documents
-- 📄 **[Hi-Fi Interfaces - Vocación360](docs/hi-fi-interfaces-vocacion360.pdf)**  
-  Final high-fidelity interface designs with visual style and interactions
-
----
