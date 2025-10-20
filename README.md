@@ -205,9 +205,7 @@ PDF version of the entire initial wireframe set, covering all main interface scr
 
 ## 7. Surface
 
-### 7.1. Interface Evolution
-
-## Interface Evolution Process: Explanations and Key Reasons for Modifications
+### 7.1. Interface Evolution Process: Explanations and Key Reasons for Modifications
 
 As previously stated, the initial versions of the interface closely ressembled existing solutions, we've decided to double down on the base structure while also improving on visual elements across all functionalities such as icons, spacing and buttons in order to improve usability. 
 
@@ -215,13 +213,28 @@ The App now fashions a minimalistic dark theme. This approach retains a modern l
 
 It's also been added into the interface the functionality of directly restricting the usage of a given app until until further notice from the user. It's been discussed (WIP) the idea of forcing the user to wait a confirmation period, while being shown a deterrent in the form of a meme.
 
+
+#### Digital Wellbeing Dashboard Evolution
 ![Dashboard Evolution](./assets/dashboard_evolution.png)
+
+#### Goals Evolution
 ![Goals Evolution](./assets/goal_evolution.png)
+
+#### App Monitoring Evolution
 ![Monitoring Evolution](./assets/monitoring_evolution.png)
+
+#### Pomodoro Evolution
 ![Pomodoro Evolution](./assets/pomodoro_evolution.png)
+
+#### App Credit Management Evolution
 ![App Credit Evolution](./assets/app_credit_evolution.png)
+
+#### Routines Management Evolution
 ![Routines Evolution](./assets/routines_evolution.png)
+
+#### Addition of App Blocking
 ![Block Apps Addition](./assets/block_apps.png)
+
 
 ### 7.2. High Definition Interfaces
 
