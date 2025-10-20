@@ -19,7 +19,7 @@ User Experience Design for Mindful Monkey: A productivy focused app for daily us
 - [6. Skeleton](#6-skeleton)
     - [6.1. Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
 - [7. Surface](#7-surface)
-    - [7.1. Interface Evolution](#71-interface-evolution)
+    - [7.1. Interface Evolution](#71-Interface-evolution-process-explanations-and-key-reasons-for-modifications)
     - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
 
 ---
