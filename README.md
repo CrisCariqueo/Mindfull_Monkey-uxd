@@ -207,7 +207,7 @@ PDF version of the entire initial wireframe set, covering all main interface scr
 
 ### 7.1. Interface Evolution Process: Explanations and Key Reasons for Modifications
 
-As previously stated, the initial versions of the interface closely ressembled existing solutions, we've decided to double down on the base structure while also improving on visual elements across all functionalities such as icons, spacing and buttons in order to improve usability. 
+As previously stated, the initial versions of the interface closely ressembled existing solutions, we've decided to double down on the base structure while also improving on visual elements across all functionalities such as icons, spacing and buttons in order to improve usability. Because of the lack of significant change, the evolution of the user interface will be merely displayed further below under the assumption that all elements fall under the aforementioned improvements.
 
 The App now fashions a minimalistic dark theme. This approach retains a modern look, while aligning with our purpose of improving our users wellbeing through the regulation of screen time. The reasoning behind this choice is that it's low-profile aesthetic will encourage the user to spend as little time as possible, and will allow the design to highlight key elements of the interface with minimal visual effort.
 
