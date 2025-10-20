@@ -239,3 +239,4 @@ It's also been added into the interface the functionality of directly restrictin
 ### 7.2. High Definition Interfaces
 
 📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**
+Complete set of initial high-fidelity prototypes available in the shared Figma workspace, including complete navigation through the system.
