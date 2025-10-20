@@ -215,17 +215,17 @@ The App now fashions a minimalistic dark theme. This approach retains a modern l
 
 It's also been added into the interface the functionality of directly restricting the usage of a given app until until further notice from the user. It's been discussed (WIP) the idea of forcing the user to wait a confirmation period, while being shown a deterrent in the form of a meme.
 
-[Dashboard Evolution](assets/dashboard_evolution.png)
-[Goals Evolution](assets/goal_evolution.png)
-[Monitoring Evolution](assets/monitoring_evolution.png)
-[Pomodoro Evolution](assets/pomodoro_evolution.png)
-[App Credit Evolution](assets/app_credit_evolution.png)
-[Routines Evolution](assets/routines_evolution.png)
-[Block Apps Addition](assets/block_apps.png)
+[Dashboard Evolution](./assets/dashboard_evolution.png)
+[Goals Evolution](./assets/goal_evolution.png)
+[Monitoring Evolution](./assets/monitoring_evolution.png)
+[Pomodoro Evolution](./assets/pomodoro_evolution.png)
+[App Credit Evolution](./assets/app_credit_evolution.png)
+[Routines Evolution](./assets/routines_evolution.png)
+[Block Apps Addition](./assets/block_apps.png)
 
 ### 7.2. High Definition Interfaces
 
-**[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**
+📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**
 
 ---
 
