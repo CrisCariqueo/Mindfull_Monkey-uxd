@@ -235,8 +235,27 @@ It's also been added into the interface the functionality of directly restrictin
 #### Addition of App Blocking
 ![Block Apps Addition](./assets/block_apps.png)
 
+### 7.2. Heuristic Evaluation Summary
+During the heuristic evaluation phase, we were adressed of several usability issues that needed to be resolved in order to enhance the overall user experience. The key findings from the evaluation are as follows:
+- **Search Functionality at "Block Apps" Section:** Users found it challenging to locate specific apps due to the absence of a search feature. Implementing a search bar would significantly improve navigation and accessibility.
 
-### 7.2. High Definition Interfaces
+<img src="./assets/heuristic-1.png" alt="drawing" width="250"/> 
+
+---
+
+- **Pop up Confirmation on risky actions:** Users expressed concerns about the lack of confirmation prompts when performing critical actions, such as blocking an app. Adding confirmation dialogs would help prevent accidental actions and enhance user confidence.
+
+<img src="./assets/heuristic-2-1.png" alt="drawing" width="250"/> 
+<img src="./assets/heuristic-2-2.png" alt="drawing" width="250"/> 
+
+---
+- **Capability to delete specific items in pomodoro view:** Users indicated the need for an option to delete individual items within the Pomodoro view. This feature would provide greater flexibility and control over task management. 
+
+<img src="./assets/heuristic-3-1.png" alt="drawing" width="250"/>
+<img src="./assets/heuristic-3-2.png" alt="drawing" width="250"/>
+
+
+### 7.3. High Definition Interfaces
 
 📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**  
 Complete set of initial high-fidelity prototypes available in the shared Figma workspace, including complete navigation through the system.
