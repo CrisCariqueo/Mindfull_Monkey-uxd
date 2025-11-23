@@ -20,7 +20,9 @@ User Experience Design for Mindful Monkey: A productivy focused app for daily us
     - [6.1. Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
 - [7. Surface](#7-surface)
     - [7.1. Interface Evolution](#71-Interface-evolution-process-explanations-and-key-reasons-for-modifications)
-    - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
+    - [7.2. Heuristic Evaluation](#72-heuristic-evaluation-summary)
+    - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+
 
 ---
 
