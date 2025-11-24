@@ -21,7 +21,10 @@ User Experience Design for Mindful Monkey: A productivy focused app for daily us
 - [7. Surface](#7-surface)
     - [7.1. Interface Evolution](#71-Interface-evolution-process-explanations-and-key-reasons-for-modifications)
     - [7.2. Heuristic Evaluation](#72-heuristic-evaluation-summary)
-    - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+    - [7.3. Accessibility Improvements](#73-accesibility-improvements)
+    - [7.4. High Definition Interfaces](#74-high-definition-interfaces)
+- [8. Annex](#8-annex)
+
 
 
 ---
@@ -264,6 +267,20 @@ To ensure our mobile application is accessible to a wider range of users, we hav
 - **Color Contrast:** We have enhanced the color contrast between text and background elements to improve readability
 
 ### 7.4. High Definition Interfaces
+📁 **[Hi-Fi screens](./docs/high-definition-views.pdf)**
+The set of Hi-Fi screens developed for Mindful Monkey, showcasing the final visual design and layout of the application's main interfaces. 
 
 📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**  
 Complete set of initial high-fidelity prototypes available in the shared Figma workspace, including complete navigation through the system.
+
+### 8. Annex
+Here are additional resources and documents related to the Mindful Monkey project:
+
+- **Figma Workspace:**
+    - [Wireframes low-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=91-6130&p=f&t=XJ1mGpevdQTeSuxt-0)
+    - [Prototype hi-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)
+
+- **Documents:**
+    - [High Definition Views (PDF)](./docs/high-definition-views.pdf)
+    - [UX Personas (PDF)](./docs/UX-personas.pdf)
+    - [Wireframes (PDF)](./docs/wireframe-Mindful_Monkey.pdf) 
