@@ -267,7 +267,7 @@ To ensure our mobile application is accessible to a wider range of users, we hav
 - **Color Contrast:** We have enhanced the color contrast between text and background elements to improve readability
 
 ### 7.4. High Definition Interfaces
-📁 **[Hi-Fi screens](./docs/high-definition-views.pdf)**
+📁 **[Hi-Fi screens](./docs/hd-views.pdf)**
 The set of Hi-Fi screens developed for Mindful Monkey, showcasing the final visual design and layout of the application's main interfaces. 
 
 📁 **[Prototype Workspace – Mindful Monkey (Figma)](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)**  
@@ -281,6 +281,6 @@ Here are additional resources and documents related to the Mindful Monkey projec
     - [Prototype hi-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)
 
 - **Documents:**
-    - [High Definition Views (PDF)](./docs/high-definition-views.pdf)
-    - [UX Personas (PDF)](./docs/UX-personas.pdf)
+    - [High Definition Views (PDF)](./docs/hd-views.pdf)
+    - [UX Personas (PDF)](./docs/UX-personas-backup.pdf)
     - [Wireframes (PDF)](./docs/wireframe-Mindful_Monkey.pdf) 
