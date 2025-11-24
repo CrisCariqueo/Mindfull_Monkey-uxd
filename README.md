@@ -279,6 +279,7 @@ Here are additional resources and documents related to the Mindful Monkey projec
 - **Figma Workspace:**
     - [Wireframes low-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=91-6130&p=f&t=XJ1mGpevdQTeSuxt-0)
     - [Prototype hi-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)
+    - [Navigable prototype](https://www.figma.com/proto/a69Z2TjfCxNCqHuz5ti6W0/Mindful-Monkey?page-id=193%3A7045&node-id=193-7153&viewport=2117%2C-844%2C0.51&t=DhOsflXgMM1lEdgS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=193%3A7153&show-proto-sidebar=1)
 
 - **Documents:**
     - [High Definition Views (PDF)](./docs/hd-views_compressed.pdf)
