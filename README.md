@@ -281,6 +281,6 @@ Here are additional resources and documents related to the Mindful Monkey projec
     - [Prototype hi-fi](https://www.figma.com/design/a69Z2TjfCxNCqHuz5ti6W0/Wireframe-Mindful-Monkey?node-id=193-7045&p=f&t=R7mZIlncMqX7eYAd-0)
 
 - **Documents:**
-    - [High Definition Views (PDF)](./docs/hd-views.pdf)
+    - [High Definition Views (PDF)](./docs/hd-views_compressed.pdf)
     - [UX Personas (PDF)](./docs/UX-personas-backup.pdf)
     - [Wireframes (PDF)](./docs/wireframe-Mindful_Monkey.pdf) 
